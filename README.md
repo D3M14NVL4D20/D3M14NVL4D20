@@ -2,7 +2,7 @@
 
 **Computer Science Student | Software Engineering | Artificial Intelligence | Cybersecurity | Data Science**
 
-I am a Computer Science student at the University of Guadalajara (CUTonalá) passionate about building technology that creates real-world impact.
+I am a Computer Science student at the University of Guadalajara (CUTonalá) *(https://cutonala.udg.mx/)* passionate about building technology that creates real-world impact.
 
 My interests are centered around Software Engineering, Artificial Intelligence, Cybersecurity, Cloud Computing, and Data Science. I enjoy designing scalable architectures, automating complex workflows, auditing systems, and developing software that solves meaningful problems.
 
@@ -103,7 +103,7 @@ I enjoy continuously exploring new technologies, particularly in:
 
 ## Connect With Me
 
-- LinkedIn: *(add link)*
-- Email: *(add email if desired)*
+- LinkedIn: *(www.linkedin.com/in/demian-fontanot)*
+- Email: *(tgffvzsss@outlook.com)*
 
 I am always interested in collaborating on open-source projects, research initiatives, developer communities, and innovative software solutions.
