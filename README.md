@@ -93,13 +93,6 @@ Mental health platform built with **Node.js** and **AWS**, focused on secure sof
 Performed a security, accessibility, and UI/UX assessment for an institutional healthcare management system, identifying improvement opportunities and supporting compliance with accessibility standards.
 
 </td>
-<td width="50%" valign="top">
-
-### Reflection: Echoes of Her
-
-Psychological horror project focused on narrative design, digital decay aesthetics, visual storytelling, and experimental game development.
-
-</td>
 </tr>
 </table>
 
