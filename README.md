@@ -34,9 +34,6 @@ Beyond technology, I believe in knowledge sharing, open-source collaboration, an
 
 ## Featured Projects
 
-### Reflection: Echoes of Her
-A psychological horror game focused on narrative design, digital decay aesthetics, and immersive storytelling.
-
 ### Village 51
 Contributed as a Data Science Consultant by developing Python-based automation using the YouTube and Twitch APIs to support creator outreach and Kickstarter analytics.
 
